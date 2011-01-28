@@ -1,0 +1,336 @@
+TDownloadBackground
+v7
+r0
+t317895734.311197
+cCheck dependencies
+cProcessInfoPlistFile /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/Info.plist DownloadBackground-Info.plist
+cCompileXIB /Users/francocarbonaro/Developer/Learning/DownloadBackground/MainWindow.xib
+cCompileXIB /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/ViewControllers/HomeViewController.xib
+cCpResource build/Debug-iphonesimulator/DownloadBackground.app/splashscreen.jpg Resources/splashscreen.jpg
+cProcessPCH /var/folders/TW/TWwyY9uwGRWgHx3M0ch8Ik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DownloadBackground_Prefix-csptfgyojfpjbpfplplepqpsolom/DownloadBackground_Prefix.pch.gch DownloadBackground_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/main.o /Users/francocarbonaro/Developer/Learning/DownloadBackground/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/DownloadBackgroundAppDelegate.o /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/DownloadBackgroundAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/HomeViewController.o /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/ViewControllers/HomeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/FileHelper.o /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/Helpers/FileHelper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/CustomNSURLConnection.o /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/Custom/CustomNSURLConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/DownloadBackground normal i386
+cGenerateDSYMFile /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app.dSYM /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/DownloadBackground
+cTouch /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/Custom/CustomNSURLConnection.h
+c000000004D427171000000000000014B
+t1296200049
+s331
+i<Foundation/Foundation.h>
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/Custom/CustomNSURLConnection.m
+c000000004D4270860000000000000114
+t1296199814
+s276
+i"CustomNSURLConnection.h"
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/DownloadBackgroundAppDelegate.h
+c000000004D4258C800000000000001A0
+t1296193736
+s416
+i<UIKit/UIKit.h>
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/DownloadBackgroundAppDelegate.m
+c000000004D4258D80000000000000A2D
+t1296193752
+s2605
+i"DownloadBackgroundAppDelegate.h"
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/Helpers/FileHelper.h
+c000000004D42670E0000000000000127
+t1296197390
+s295
+i<Foundation/Foundation.h>
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/Helpers/FileHelper.m
+c000000004D4267B800000000000001D9
+t1296197560
+s473
+i"FileHelper.h"
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/ViewControllers/HomeViewController.h
+c000000004D427AB800000000000001EE
+t1296202424
+s494
+i<UIKit/UIKit.h>
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/ViewControllers/HomeViewController.m
+c000000004D427CB50000000000001463
+t1296202933
+s5219
+i"HomeViewController.h"
+i"FileHelper.h"
+i"CustomNSURLConnection.h"
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/ViewControllers/HomeViewController.xib
+c000000004D427A3E0000000000004DD6
+t1296202302
+s19926
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/DownloadBackground_Prefix.pch
+c000000004D4257F400000000000000CD
+t1296193524
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/MainWindow.xib
+c000000004D42589C000000000000608C
+t1296193692
+s24716
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/Resources/splashscreen.jpg
+c000000004D4262D40000000000022BAB
+t1296196308
+s142251
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app
+t1296202934
+s272
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app.dSYM
+t1296202934
+s102
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/DownloadBackground
+t1296202934
+s25180
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/HomeViewController.nib
+t1296202605
+s1095
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/Info.plist
+t1296193713
+s641
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/MainWindow.nib
+t1296193714
+s1561
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/PkgInfo
+t1296193713
+s8
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/splashscreen.jpg
+t1296196359
+s142251
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/CustomNSURLConnection.o
+t1296200053
+s7560
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/DownloadBackground.LinkFileList
+c000000004D42700B000000000000037C
+t1296199691
+s892
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/DownloadBackgroundAppDelegate.o
+t1296193752
+s52004
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/FileHelper.o
+t1296197562
+s6704
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/HomeViewController.o
+t1296202934
+s54264
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/main.o
+t1296193715
+s6348
+
+N/Users/francocarbonaro/Developer/Learning/DownloadBackground/main.m
+c000000004D4257F40000000000000173
+t1296193524
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/TW/TWwyY9uwGRWgHx3M0ch8Ik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DownloadBackground_Prefix-csptfgyojfpjbpfplplepqpsolom/DownloadBackground_Prefix.pch.gch
+t1296193714
+s15453392
+
+NDownloadBackground-Info.plist
+c000000004D4257F4000000000000038D
+t1296193524
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317895734#317895734#0(0"0(0#1#0"8652755904#0"0#
+
+CCompileC build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/CustomNSURLConnection.o /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/Custom/CustomNSURLConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317892853.749448
+e317892853.861439
+r1
+xCompileC
+xbuild/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/CustomNSURLConnection.o
+x/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/Custom/CustomNSURLConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/Custom/CustomNSURLConnection.m317892853#317892853#0(0"0(0#0#99"/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/Custom/CustomNSURLConnection.m8635680320#2425"    cd /Users/francocarbonaro/Developer/Learning/DownloadBackground    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-generated-files.hmap -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-own-target-headers.hmap -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-all-target-headers.hmap -iquote /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-project-headers.hmap -F/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/include -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DerivedSources/i386 -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DerivedSources -include /var/folders/TW/TWwyY9uwGRWgHx3M0ch8Ik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DownloadBackground_Prefix-csptfgyojfpjbpfplplepqpsolom/DownloadBackground_Prefix.pch -c /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/Custom/CustomNSURLConnection.m -o /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/CustomNSURLConnection.o0#
+
+CCompileC build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/DownloadBackgroundAppDelegate.o /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/DownloadBackgroundAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317886552.415516
+e317886552.583815
+r1
+xCompileC
+xbuild/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/DownloadBackgroundAppDelegate.o
+x/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/DownloadBackgroundAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/DownloadBackgroundAppDelegate.m317886552#317886552#0(0"0(0#0#100"/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/DownloadBackgroundAppDelegate.m8017585357906866176#2434"    cd /Users/francocarbonaro/Developer/Learning/DownloadBackground    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-generated-files.hmap -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-own-target-headers.hmap -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-all-target-headers.hmap -iquote /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-project-headers.hmap -F/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/include -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DerivedSources/i386 -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DerivedSources -include /var/folders/TW/TWwyY9uwGRWgHx3M0ch8Ik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DownloadBackground_Prefix-csptfgyojfpjbpfplplepqpsolom/DownloadBackground_Prefix.pch -c /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/DownloadBackgroundAppDelegate.m -o /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/DownloadBackgroundAppDelegate.o0#
+
+CCompileC build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/FileHelper.o /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/Helpers/FileHelper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317890362.718506
+e317890362.776946
+r1
+xCompileC
+xbuild/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/FileHelper.o
+x/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/Helpers/FileHelper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/Helpers/FileHelper.m317890362#317890362#0(0"0(0#0#89"/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/Helpers/FileHelper.m8631046944#2404"    cd /Users/francocarbonaro/Developer/Learning/DownloadBackground    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-generated-files.hmap -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-own-target-headers.hmap -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-all-target-headers.hmap -iquote /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-project-headers.hmap -F/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/include -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DerivedSources/i386 -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DerivedSources -include /var/folders/TW/TWwyY9uwGRWgHx3M0ch8Ik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DownloadBackground_Prefix-csptfgyojfpjbpfplplepqpsolom/DownloadBackground_Prefix.pch -c /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/Helpers/FileHelper.m -o /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/FileHelper.o0#
+
+CCompileC build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/HomeViewController.o /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/ViewControllers/HomeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317895734.022730
+e317895734.263136
+r1
+xCompileC
+xbuild/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/HomeViewController.o
+x/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/ViewControllers/HomeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/ViewControllers/HomeViewController.m317895734#317895734#0(0"0(0#0#105"/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/ViewControllers/HomeViewController.m8639168608#2428"    cd /Users/francocarbonaro/Developer/Learning/DownloadBackground    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-generated-files.hmap -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-own-target-headers.hmap -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-all-target-headers.hmap -iquote /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-project-headers.hmap -F/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/include -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DerivedSources/i386 -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DerivedSources -include /var/folders/TW/TWwyY9uwGRWgHx3M0ch8Ik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DownloadBackground_Prefix-csptfgyojfpjbpfplplepqpsolom/DownloadBackground_Prefix.pch -c /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/ViewControllers/HomeViewController.m -o /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/HomeViewController.o0#
+
+CCompileC build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/main.o /Users/francocarbonaro/Developer/Learning/DownloadBackground/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317886514.956261
+e317886515.045417
+r1
+xCompileC
+xbuild/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/main.o
+x/Users/francocarbonaro/Developer/Learning/DownloadBackground/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/francocarbonaro/Developer/Learning/DownloadBackground/main.m317886514#317886515#0(0"0(0#0#67"/Users/francocarbonaro/Developer/Learning/DownloadBackground/main.m8613964832#2376"    cd /Users/francocarbonaro/Developer/Learning/DownloadBackground    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-generated-files.hmap -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-own-target-headers.hmap -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-all-target-headers.hmap -iquote /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-project-headers.hmap -F/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/include -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DerivedSources/i386 -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DerivedSources -include /var/folders/TW/TWwyY9uwGRWgHx3M0ch8Ik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DownloadBackground_Prefix-csptfgyojfpjbpfplplepqpsolom/DownloadBackground_Prefix.pch -c /Users/francocarbonaro/Developer/Learning/DownloadBackground/main.m -o /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/ViewControllers/HomeViewController.xib
+s317895405.191334
+e317895405.823807
+r1
+xCompileXIB
+x/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/ViewControllers/HomeViewController.xib
+lSLF07#2@57"CompileXIB Classes/ViewControllers/HomeViewController.xib317895405#317895405#0(0"0(0#0#107"/Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/ViewControllers/HomeViewController.xib8643256544#687"    cd /Users/francocarbonaro/Developer/Learning/DownloadBackground    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/HomeViewController.nib /Users/francocarbonaro/Developer/Learning/DownloadBackground/Classes/ViewControllers/HomeViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/francocarbonaro/Developer/Learning/DownloadBackground/MainWindow.xib
+s317886513.693315
+e317886514.148427
+r1
+xCompileXIB
+x/Users/francocarbonaro/Developer/Learning/DownloadBackground/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib317886513#317886514#0(0"0(0#0#75"/Users/francocarbonaro/Developer/Learning/DownloadBackground/MainWindow.xib8614319840#647"    cd /Users/francocarbonaro/Developer/Learning/DownloadBackground    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/MainWindow.nib /Users/francocarbonaro/Developer/Learning/DownloadBackground/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/DownloadBackground.app/splashscreen.jpg Resources/splashscreen.jpg
+s317889159.241440
+e317889159.270785
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DownloadBackground.app/splashscreen.jpg
+xResources/splashscreen.jpg
+lSLF07#2@31"Copy Resources/splashscreen.jpg317889159#317889159#0(0"0(0#0#87"/Users/francocarbonaro/Developer/Learning/DownloadBackground/Resources/splashscreen.jpg8615072288#561"    cd /Users/francocarbonaro/Developer/Learning/DownloadBackground    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/francocarbonaro/Developer/Learning/DownloadBackground/Resources/splashscreen.jpg /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app0#
+
+CGenerateDSYMFile /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app.dSYM /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/DownloadBackground
+s317895734.290134
+e317895734.308304
+r1
+xGenerateDSYMFile
+x/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app.dSYM
+x/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/DownloadBackground
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/DownloadBackground.app.dSYM build/Debug-iphonesimulator/DownloadBackground.app/DownloadBackground317895734#317895734#0(0"0(0#0#130"/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/DownloadBackground8640995168#482"    cd /Users/francocarbonaro/Developer/Learning/DownloadBackground    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/DownloadBackground -o /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app.dSYM0#
+
+CLd /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/DownloadBackground normal i386
+s317895734.263232
+e317895734.290027
+r1
+xLd
+x/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/DownloadBackground
+xnormal
+xi386
+lSLF07#2@135"Link /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/DownloadBackground317895734#317895734#0(0"0(0#0#0"8643497184#1065"    cd /Users/francocarbonaro/Developer/Learning/DownloadBackground    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator -F/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator -filelist /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/Objects-normal/i386/DownloadBackground.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/DownloadBackground0#
+
+CProcessInfoPlistFile /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/Info.plist DownloadBackground-Info.plist
+s317886513.690120
+e317886513.693227
+r1
+xProcessInfoPlistFile
+x/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/Info.plist
+xDownloadBackground-Info.plist
+lSLF07#2@37"Process DownloadBackground-Info.plist317886513#317886513#0(0"0(0#0#90"/Users/francocarbonaro/Developer/Learning/DownloadBackground/DownloadBackground-Info.plist8614875008#578"    cd /Users/francocarbonaro/Developer/Learning/DownloadBackground    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DownloadBackground-Info.plist -genpkginfo /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app/Info.plist0#
+
+CProcessPCH /var/folders/TW/TWwyY9uwGRWgHx3M0ch8Ik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DownloadBackground_Prefix-csptfgyojfpjbpfplplepqpsolom/DownloadBackground_Prefix.pch.gch DownloadBackground_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317886514.148560
+e317886514.956120
+r1
+xProcessPCH
+x/var/folders/TW/TWwyY9uwGRWgHx3M0ch8Ik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DownloadBackground_Prefix-csptfgyojfpjbpfplplepqpsolom/DownloadBackground_Prefix.pch.gch
+xDownloadBackground_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile DownloadBackground_Prefix.pch317886514#317886514#0(0"0(0#0#90"/Users/francocarbonaro/Developer/Learning/DownloadBackground/DownloadBackground_Prefix.pch8614901280#2235"    cd /Users/francocarbonaro/Developer/Learning/DownloadBackground    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-generated-files.hmap -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-own-target-headers.hmap -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-all-target-headers.hmap -iquote /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DownloadBackground-project-headers.hmap -F/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/include -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DerivedSources/i386 -I/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/DownloadBackground.build/Debug-iphonesimulator/DownloadBackground.build/DerivedSources -c /Users/francocarbonaro/Developer/Learning/DownloadBackground/DownloadBackground_Prefix.pch -o /var/folders/TW/TWwyY9uwGRWgHx3M0ch8Ik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DownloadBackground_Prefix-csptfgyojfpjbpfplplepqpsolom/DownloadBackground_Prefix.pch.gch0#
+
+CTouch /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app
+s317895734.308403
+e317895734.311158
+r1
+xTouch
+x/Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app
+lSLF07#2@117"Touch /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app317895734#317895734#0(0"0(0#0#0"8632887328#333"    cd /Users/francocarbonaro/Developer/Learning/DownloadBackground    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/francocarbonaro/Developer/Learning/DownloadBackground/build/Debug-iphonesimulator/DownloadBackground.app0#
+
